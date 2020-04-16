@@ -6,7 +6,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 @SpringBootApplication
 public class Library2Application {
 
-	public static void main(String[] args) {
+	public static void main(String[] a) {
 		SpringApplication.run(Library2Application.class, args);
 	}
 
